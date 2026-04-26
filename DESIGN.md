@@ -1,7 +1,5 @@
 # Design Document
 
-By YOUR NAME HERE
-
 Video overview: <[watch here](https://youtu.be/l4v_HKqE8HU)>
 
 ## Scope
